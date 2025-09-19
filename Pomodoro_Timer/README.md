@@ -5,6 +5,6 @@ A simple **Pomodoro Timer** built with Next.js to boost productivity using the 2
 ## 🚀 Run Locally
 ```bash
 git clone https://github.com/prakruthiprasad20/pomodoro_timer.git
-cd pomodoro_timer
+cd Pomodoro_Timer
 npm install
 npm run dev
